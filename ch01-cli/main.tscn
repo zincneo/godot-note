@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c3fvk5xvkjlvq"]
+
+[ext_resource type="Script" uid="uid://ckgs2wvhafuql" path="res://main.gd" id="1_ig7tw"]
+
+[node name="ColorRect" type="ColorRect"]
+offset_right = 1152.0
+offset_bottom = 648.0
+script = ExtResource("1_ig7tw")
